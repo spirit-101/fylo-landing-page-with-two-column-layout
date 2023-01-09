@@ -4,9 +4,9 @@
 
 <hr>
 
-🌐 [View the live site](https://spirit-101.github.io/huddle-landing-page-w-alternating-feature-blocks/)
+🌐 [View the live site](https://spirit-101.github.io/fylo-landing-page-with-two-column-layout/)
 
-🧠 [Check out the solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-l4kbZJ1gde)
+🧠 [Check out the solution](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-aJ7dN6kcTu)
 
 📝 [View the challenge](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5)
 
