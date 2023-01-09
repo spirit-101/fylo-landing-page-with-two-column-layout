@@ -25,7 +25,7 @@
   <body>
     <header class="header">
       <div class="header__logo-box">
-        <img class="hero__logo" src="images/logo.svg" alt="Fylo Logo" />
+        <img class="hero__logo" src="images/logo.svg" alt="Logo" />
       </div>
       <nav class="header__nav">
         <ul class="header__nav-list">
@@ -52,7 +52,9 @@
 
               <form class="hero__form" name="sign-up">
                 <div>
+                  <label for="email"></label>
                   <input
+                    id="email"
                     class="hero__input"
                     type="email"
                     placeholder="Enter your email..."
@@ -66,7 +68,12 @@
             </div>
 
             <div class="hero__img-box">
-              <img class="hero__img" src="images/illustration-1.svg" alt="" />
+              <img
+                class="hero__img"
+                src="images/illustration-1.svg"
+                alt=""
+                aria-hidden="true"
+              />
             </div>
           </div>
         </section>
@@ -126,7 +133,12 @@
             </div>
 
             <div class="info__img-box">
-              <img src="images/illustration-2.svg" alt="" class="info__img" />
+              <img
+                src="images/illustration-2.svg"
+                alt=""
+                aria-hidden="true"
+                class="info__img"
+              />
             </div>
           </div>
         </section>
@@ -145,7 +157,9 @@
             <div class="cta__form">
               <form class="hero__form" name="sign-up">
                 <div>
+                  <label for="email"></label>
                   <input
+                    id="email"
                     class="hero__input cta__input"
                     type="email"
                     placeholder="email@example.com"
@@ -165,11 +179,7 @@
       <footer class="footer">
         <div class="footer__container">
           <address class="footer__info-box">
-            <img
-              class="footer__logo"
-              src="images/logo-footer.svg"
-              alt="Fylo logo"
-            />
+            <img class="footer__logo" src="images/logo-footer.svg" alt="Logo" />
             <ul class="footer__list">
               <li class="footer__list__item">
                 <div class="footer__icon-box">
